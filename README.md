@@ -1,5 +1,5 @@
 # k8s-lecture-note
-[쿠버네티스 일자별 정리](https://ictssp04046.tistory.com/category/Sub7_Kubernetes)
+[쿠버네티스 일자별 정리](https://ictssp04046.tistory.com/category/Sub7_Kubernetes)   
 쿠버네티스 강의 정리        
 1. 컨테이너와 쿠버네티스 소개
 2. 쿠버네티스 기본
